@@ -24,9 +24,11 @@ Users should be able to:
 ### Screenshot
 
 - Desktop
+
   ![](./images/desktop_view.jpg.jpg)
 
 - Mobile
+
   ![](./images/mobile_view.jpg)
 
 ## My process
