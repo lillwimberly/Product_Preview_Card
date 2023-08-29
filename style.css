@@ -48,6 +48,7 @@ section .image {
 
 .category {
   font-size: 12px;
+  letter-spacing: 0.5rem;
 }
 
 .category,
