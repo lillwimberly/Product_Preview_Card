@@ -58,4 +58,4 @@ Learned about some minutiae surrounding color theory in UI design and employed F
 ### Continued development
 
 I would like to be more thoughtful when naming classes in HTML.
-Also next time I would implement a 'Mobile First Design' approach.
+Also next time I would implement a **Mobile First Design** approach.
